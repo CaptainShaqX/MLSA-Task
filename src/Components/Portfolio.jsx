@@ -37,10 +37,16 @@ const projectList = [
     url: "https://github.com/CaptainShaqX/Portfolio-B",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Introdutory System Design",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Introduction to System Design Blog",
+    url: "https://bhaweshchoudhary.hashnode.dev/understanding-system-design",
+  },
+  {
+    title: "Learn Git And github",
+    description:
+      "Introduction to git and github Blog",
+    url: "https://bhaweshchoudhary.hashnode.dev/how-to-get-started-with-git-github-open-source?source=more_articles_bottom_blogs",
   },
 ];
 
