@@ -28,10 +28,10 @@ const siteProps = {
   name: "Bhawesh Choudhary",
   title: "Web Designer | Coder | learner",
   email: "bhawesh.choudhary@studnetambassadors.com",
-  gitHub: "microsoft",
+  gitHub: "CaptainShaqX",
   instagram: "captain_shaq",
-  linkedIn: "bhaweshchoudhary",
-  medium: "",
+  linkedIn: "bhawesh-choudhary-32431a250",
+  medium: "@bhaweshchoudhary",
   twitter: "Captain_Shaq_",
   youTube: "",
 };
